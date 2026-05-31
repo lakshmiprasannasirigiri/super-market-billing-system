@@ -16,8 +16,7 @@ A console-based billing and inventory management system developed in C.
 - Arrays
 - Functions
 
-## Sample Output
-(Add screenshot here)
+
 
 ## Learning Outcomes
 - Implemented structures for product management
